@@ -4,7 +4,7 @@
 - Use Python 3.12.12
 ```bash
 pip3 install torch torchvision
-pip3 install huggingface
+pip3 install transformers==4.46.3
 ```
 
 ## Patch the Deepseek-OCR source code:
