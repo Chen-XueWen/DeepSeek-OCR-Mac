@@ -12,7 +12,7 @@ pip3 install huggingface
 .cache/huggingface/modules/transformers_modules/deepseek-ai/DeepSeek-OCR/{uuid}/modeling_deepseekocr.py
 ```
 
-or replace "cuda" with "cpu"
+with "modeling_deepseekocr.py" in this repo or replace all "cuda" with "cpu"
 
 ## Run OCR
 - Edit `prompt`, `image_file`, and `output_path` in `example.py` if needed.
